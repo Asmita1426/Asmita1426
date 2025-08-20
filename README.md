@@ -34,14 +34,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-![Asmita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AsmitaAmrute&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AsmitaAmrute&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AsmitaAmrute&theme=tokyonight)  
-
----
-
 ## 🌐 Connect With Me  
 📩 **Email:** your-asmitaamrute14@gmail.com  
 💼 **LinkedIn:** [(https://www.linkedin.com/in/asmita-amrute-351464319/)](#)  
