@@ -35,7 +35,7 @@
 ---
 
 ## 🌐 Connect With Me  
-📩 **Email:** your-asmitaamrute14@gmail.com  
+📩 **Email:** asmitaamrute14@gmail.com  
 💼 **LinkedIn:** [(https://www.linkedin.com/in/asmita-amrute-351464319/)](#)  
 
 ---
